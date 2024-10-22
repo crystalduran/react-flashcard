@@ -15,13 +15,13 @@ You can find the challenge [here](https://roadmap.sh/projects/flash-cards)
 ### Screenshots
 
 1. Flashcard Before Answer (Show Answer)
-<img src="/ss-1.png" alt="Question flashcard" width="700" height="325">
+<img src="src/assets/ss-1.png" alt="Question flashcard" width="700" height="325">
 
 2. Flashcard After Answer (Hide Answer)
-<img src="/ss-2.png" alt="Answer flashcard width="700" height="325">
+<img src="src/assets/ss-2.png" alt="Answer flashcard" width="700" height="325">
 
 3. Responsive View
-<img src="/ss-3.png" alt="Responsive design" width="378">
+<img src="src/assets/ss-3.png" alt="Responsive design" width="378">
 
 4. Last Flashcard
-<img src="/ss-4.png" alt="Last flashcard" width="700" height="325">
+<img src="src/assets/ss-4.png" alt="Last flashcard" width="700" height="325">
