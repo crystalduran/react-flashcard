@@ -32,3 +32,104 @@ footer {
   text-align: center;
   color: var(--dim-gray);
 }
+
+.progress-container {
+  border: 2px solid var(--dim-gray);
+  width: 100%;
+  height: 32px;
+  border-radius: 10px;
+  padding: 5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.progress-bar-container {
+  flex-basis: 100%;
+  height: 100%;
+}
+
+
+.progress-bar {
+  height: 100%;
+  background-color: var(--pink-dark);
+  border-radius: 10px;
+  transition: width 0.3s ease;
+  text-align: end;
+  align-content: center;
+
+  p {
+    display: inline;
+    padding-right: 5px;
+    font-size: 14px;
+  }
+}
+
+.flashcard {
+  background-color: var(--pink-light);
+  height: 300px;
+  align-content: center;
+  border-radius: 10px;
+  text-align: center;
+  padding: 10px 40px;
+
+  .question {
+    color: black;
+    font-size: 35px;
+  }
+
+  .answer {
+    color: var(--jet);
+    font-size: 22px;
+  }
+}
+
+.flashcard-section {
+  border: 2px solid var(--dim-gray);
+  width: 100%;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.controls {
+  background-color: var(--pink-light);
+  border-radius: 10px;
+  margin-top: 5px;
+  padding: 10px 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 22px;
+  cursor: pointer;
+
+  .previous-next {
+    display: flex;
+    column-gap: 3px;
+    align-items: center;
+  }
+
+  p {
+    color: var(--dim-gray);
+    padding: 0;
+    margin: 0;
+  }
+
+  p:hover {
+    color: var(--raisin-black);
+  }
+
+  button {
+    background: none;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+    color: var(--dim-gray);
+  }
+
+  .show-hide-answer {
+    color: var(--raisin-black);
+  }
+}

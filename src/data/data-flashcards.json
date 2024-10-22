@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "question": "What is JavaScript?",
+        "answer": "JavaScript is a high-level, dynamic, and interpreted programming language used for web development to create interactive and dynamic content."
+    },
+    {
+        "id": 2,
+        "question": "What are variables in JavaScript?",
+        "answer": "Variables are containers for storing data values. They can hold different types of data, such as numbers, strings, and objects."
+    },
+    {
+        "id": 3,
+        "question": "What are the different data types in JavaScript?",
+        "answer": "JavaScript has several data types, including string, number, boolean, object, null, undefined, and symbol."
+    },
+    {
+        "id": 4,
+        "question": "What is a function in JavaScript?",
+        "answer": "A function is a block of code designed to perform a particular task and can be reused in a program."
+    },
+    {
+        "id": 5,
+        "question": "What is an array in JavaScript?",
+        "answer": "An array is a data structure that holds a list of values in a single variable, which can be of different data types."
+    },
+    {
+        "id": 6,
+        "question": "What is the difference between == and ===?",
+        "answer": "== checks for value equality with type coercion, while === checks for both value and type equality."
+    },
+    {
+        "id": 7,
+        "question": "What is an object in JavaScript?",
+        "answer": "An object is a collection of key-value pairs where keys are strings (or Symbols) and values can be of any data type."
+    },
+    {
+        "id": 8,
+        "question": "What are JavaScript events?",
+        "answer": "Events are actions or occurrences that happen in the browser, such as clicks, form submissions, or page loading."
+    },
+    {
+        "id": 9,
+        "question": "What is the difference between null and undefined?",
+        "answer": "null is an intentional absence of any value, while undefined means a variable has been declared but has not yet been assigned a value."
+    },
+    {
+        "id": 10,
+        "question": "What is a Promise in JavaScript?",
+        "answer": "A Promise is an object representing the eventual completion or failure of an asynchronous operation."
+    },
+    {
+        "id": 11,
+        "question": "What is this in JavaScript?",
+        "answer": "this refers to the context in which a function is called, and it can vary depending on how the function is invoked."
+    },
+    {
+        "id": 12,
+        "question": "What is a closure in JavaScript?",
+        "answer": "A closure is a function that retains access to its lexical scope, even when the function is executed outside that scope."
+    },
+    {
+        "id": 13,
+        "question": "What are template literals in JavaScript?",
+        "answer": "Template literals are string literals that allow embedded expressions and can be multi-line, enclosed by backticks (`)."
+    },
+    {
+        "id": 14,
+        "question": "What is event bubbling in JavaScript?",
+        "answer": "Event bubbling is the propagation of events from the target element up to the root of the DOM tree."
+    },
+    {
+        "id": 15,
+        "question": "What are arrow functions in JavaScript?",
+        "answer": "Arrow functions are a more concise way to write function expressions in JavaScript, with lexical this binding."
+    },
+    {
+        "id": 16,
+        "question": "What is a callback function?",
+        "answer": "A callback function is a function passed as an argument to another function, to be executed after a certain event or operation."
+    },
+    {
+        "id": 17,
+        "question": "What is the purpose of use strict in JavaScript?",
+        "answer": "use strict enables strict mode, which helps catch common coding errors and prevents the use of certain unsafe actions."
+    },
+    {
+        "id": 18,
+        "question": "What are modules in JavaScript?",
+        "answer": "Modules are reusable pieces of code that can be exported from one file and imported into another, promoting code organization."
+    },
+    {
+        "id": 19,
+        "question": "What is hoisting in JavaScript?",
+        "answer": "Hoisting is a JavaScript behavior where variable and function declarations are moved to the top of their containing scope during compilation."
+    },
+    {
+        "id": 20,
+        "question": "What is the purpose of the map() function?",
+        "answer": "The map() function creates a new array populated with the results of calling a provided function on every element in the calling array."
+    }
+]
